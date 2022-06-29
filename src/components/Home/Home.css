@@ -1,0 +1,97 @@
+.title1 {
+  font-family: "Proxima Nova", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.4em;
+  line-height: 4.1em;
+  text-align: center;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+
+.title2 {
+  font-family: "Proxima Nova", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 4.1em;
+  /* line-height: 4.1em; */
+  text-align: center;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+
+.central {
+  margin-top: 2em;
+}
+
+.HomeBg {
+  background-image: url("../../assets//MemoryGod.jpg");
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+}
+
+.Logo {
+  height: 100%;
+  width: 100%;
+  display: block;
+  margin: auto;
+
+}
+
+.logoHeader  {
+    background-color: "black";
+    max-height : "200px";
+    max-width:"100%";
+}
+
+
+.wallet-adapter-button.centralConnect {
+  background-color: #E7BFC8;
+  border: none;
+  color: black;
+  cursor: pointer;
+  display: initial;
+  align-items: center;
+  font-family: "Proxima Nova", sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  height: 48px;
+  line-height: 48px;
+  padding: 0 24px;
+  border-radius: 4px;
+  margin-top: 3em;
+}
+
+.wallet-adapter-button.centralConnect:hover{
+    background-color:#FFFFF3,
+}
+.wallet-adapter-button.centralConnect:disabled{
+    background-color:#160617,
+}
+
+.registerButton {
+  background-color: #E7BFC8;
+  border: none;
+  color: black;
+  cursor: pointer;
+  display: initial;
+  align-items: center;
+  font-family: "Proxima Nova", sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  height: 48px;
+  line-height: 48px;
+  padding: 0 24px;
+  border-radius: 4px;
+  margin-top: 3em;
+}
+
+.registerButton:hover{
+    background-color:#FFFFF3,
+}
